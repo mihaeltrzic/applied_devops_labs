@@ -25,4 +25,14 @@ ADMINISTRATOR
 |Can view appointments|Yes|Yes|No|
 
 ## 4. Product backlog
+
+US-01
+
+**Doctor** wants to **be able to file appointments** so he can **work with the receptionist absent.**
+
+**Receptionist** wants to **be able to access the calendar** so she can **schedule appointments.**
+
+**Administrator** wants to **have access to appointments** so he can **delete them in case of errors.**
+
+
 ## 5. Process and ceremonies
