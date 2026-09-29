@@ -36,3 +36,5 @@ US-01
 
 
 ## 5. Process and ceremonies
+
+Sprint will last 1 week. That should leave enough time for everything to be implemented. The number of sprints will be 4.
