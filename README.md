@@ -20,6 +20,7 @@ DOCTOR
 ADMINISTRATOR
 
 ||Receptionist|Doctor|Administrator|
+|-----|-----|-----|-----|
 |Can schedule appointments|Yes|Yes|No|
 |Can view appointments|Yes|Yes|No|
 
