@@ -13,5 +13,15 @@ Patient records need to be able to be deactivated while perserving all other rec
 
 ### 2.2 Non-functional requirements
 ## 3. Roles and access control
+RECEPTIONIST
+Should be able to schedule appointments.
+DOCTOR
+
+ADMINISTRATOR
+
+||Receptionist|Doctor|Administrator|
+|Can schedule appointments|Yes|Yes|No|
+|Can view appointments|Yes|Yes|No|
+
 ## 4. Product backlog
 ## 5. Process and ceremonies
