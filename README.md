@@ -73,7 +73,7 @@ Development of the reservation system for filing appointments.
 |T01.3|Managing double booking prevention|Code|T01.2|
 |T01.4|Unit testing the individual features required|Test - automated|T01.3|
 
-## 7. 
+## 7. Scaling
 
 **SCALE**
 
@@ -91,7 +91,7 @@ Development of the reservation system for filing appointments.
 
 7 - Security concerns
 
-10 - Extremely complex tasks requiring vast knowledge of the program
+10 - Extremely complex tasks requiring vast knowledge of the application
 
 
 |ID|User Story|Points|What drives the numbers|
@@ -100,8 +100,24 @@ Development of the reservation system for filing appointments.
 
 |US-**|Double booking disabled|6|Making sure that double booking doesn't happen is imperative for the functionality of the app and customer satisfaction|
 
-## 8. 
+## 8. Sprints
 
 |Sprint|Goal|Stories|Points|
 |---|---|---|---|
 |1|Login works and the CI pipeline is built|US-**|10|
+|2|The booking system is implemented and working|US-**|14|
+|3||||
+
+## 9. Stack
+
+C# with ASP.NET Core
+
+SQL
+
+xUNIT
+
+Playwright for .NET
+
+Why?
+
+Most familiar with it, easy to work with, fairly large user base.
