@@ -2,6 +2,9 @@
 # Hospital management - DevOps project
 
 ## 1. Project overview
+
+https://github.com/users/mihaeltrzic/projects/2/views/1
+
 ## 2. Requirement analysis
 ### 2.1 Functional requirements
 
