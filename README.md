@@ -5,6 +5,10 @@
 
 https://github.com/users/mihaeltrzic/projects/2/views/1
 
+Naming convention
+
+<issue-number>-<story-or-task-id>-<short-description>
+
 ## 2. Requirement analysis
 ### 2.1 Functional requirements
 
